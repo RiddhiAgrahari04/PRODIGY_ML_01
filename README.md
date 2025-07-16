@@ -2,6 +2,7 @@
 This project uses a Linear Regression model to predict house prices based on various features from a housing dataset.
 It includes data preprocessing, feature selection, model training, evaluation, and prediction on a separate test dataset
 
+Dataset link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 --------------------------------------------------------------------------------------------------------------------------
 📁 Project Structure
 LR_HousePricePrediction/
